@@ -3,7 +3,6 @@ library(Seurat)
 
 # load package and confirm version
 library(dplyr)
-packageVersion("dplyr")
 
 # Load some data
 df <- data.frame(
